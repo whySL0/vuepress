@@ -4,3 +4,4 @@
 
 ## [git版本控制](/beInWork/git)
 ## [初学vue.js](/beInWork/vue)
+## [异步操作](/beInWork/axios)
