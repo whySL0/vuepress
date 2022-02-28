@@ -1,8 +1,6 @@
 # 初学Vue.js
-「这是我参与2022首次更文挑战的第2天，活动详情查看：[2022首次更文挑战](https://juejin.cn/post/7052884569032392740 "https://juejin.cn/post/7052884569032392740")」
 
 这篇文章是我毕业后，刚接触vue，最初学习vue2.x的时候记录的一些tip。
-
 ## 一、路由：
 两种路由跳转方式：
 * `this.$router.push({name: 'userAdd',params: {'id: row.id',}})`： 地址栏不可见，安全性高，但是刷新之后参数会丢失, 通过`this.$route.params.id`获取页面传参。

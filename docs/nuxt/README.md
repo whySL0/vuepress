@@ -1,5 +1,4 @@
 # nuxt 初识
-「这是我参与2022首次更文挑战的第4天，活动详情查看：[2022首次更文挑战](https://juejin.cn/post/7052884569032392740 "https://juejin.cn/post/7052884569032392740")」
 
 `nuxt`是一个基于`Vue`的服务端渲染框架；该框架集成了`Vue2`, `Vue-Router`,` Vuex`, `Vue`服务端渲染，`Vue-Meta`.
 这篇文章是我自己在开发`nuxt`应用过程中记录的一些tip，以及学习记录，主要内容为`nuxt.config.js`的配置
