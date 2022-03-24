@@ -1,0 +1,16 @@
+.DS_Store
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+hs_err_*.log
+
+# 排除依赖文件夹
+node_modules/
+
+# 本地修改历史
+.history/
